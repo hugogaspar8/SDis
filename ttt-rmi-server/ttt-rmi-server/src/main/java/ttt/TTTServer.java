@@ -7,19 +7,19 @@ public class TTTServer {
 	
 	public static void main(String args[]){
 	
-		int registryPort = 8252;
+		int registryPort = 1111;
         System.out.println("Main OK");
         
         try{
         	TTTService aTTTService = new TTT();
-            System.out.println("After create");
+            System.out.println("Server created.");
             
             Registry reg = LocateRegistry.createRegistry(registryPort);
 			reg.rebind("TTTService", aTTTService);
 			           
-            System.out.println("ShapeList server ready");
+            System.out.println("Server ready!");
         }catch(Exception e) {
-            System.out.println("ShapeList server main " + e.getMessage());
+            System.out.println("Server main " + e.getMessage());
         }
     }
 }
