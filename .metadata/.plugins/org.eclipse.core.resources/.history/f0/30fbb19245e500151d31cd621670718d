@@ -1,0 +1,11 @@
+package ttt;
+
+import java.rmi.Remote;
+
+public interface TTTService extends Remote {
+	
+	public String currentBoard();
+	public boolean play(int row, int column, int player);
+	public int checkWinner();
+
+}

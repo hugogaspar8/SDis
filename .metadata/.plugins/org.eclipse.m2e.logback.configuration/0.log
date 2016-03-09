@@ -1,0 +1,98 @@
+2016-03-08 15:44:33,392 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ttt-rmi:ttt-rmi-client:1.0-SNAPSHOT @ /home/hugo/Área de Trabalho/SDis/ttt-rmi-client/pom.xml.
+2016-03-08 15:44:33,408 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for ttt-rmi:ttt-rmi-server:jar:1.0-SNAPSHOT is missing, no dependency information available
+2016-03-08 15:44:34,594 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ttt-rmi-client/src/main/java
+2016-03-08 15:44:34,594 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ttt-rmi-client/src/test/java
+2016-03-08 15:44:35,514 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2016-03-08 15:44:36,096 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for ttt-rmi:ttt-rmi-server:jar:1.0-SNAPSHOT is missing, no dependency information available
+2016-03-08 15:44:36,174 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:44:36,174 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-client/src/main/resources
+2016-03-08 15:44:36,180 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:44:36,180 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-client/src/test/resources
+2016-03-08 15:44:45,039 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ttt-rmi:ttt-rmi-server:1.0-SNAPSHOT @ /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/pom.xml.
+2016-03-08 15:44:45,123 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ttt-rmi:ttt-rmi-client:1.0-SNAPSHOT @ /home/hugo/Área de Trabalho/SDis/ttt-rmi-client/pom.xml.
+2016-03-08 15:44:45,368 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ttt-rmi-server/src/main/java
+2016-03-08 15:44:45,369 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ttt-rmi-server/src/test/java
+2016-03-08 15:44:45,397 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-03-08 15:44:45,910 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:44:45,910 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/main/resources
+2016-03-08 15:44:45,912 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:44:45,912 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/test/resources
+2016-03-08 15:44:46,042 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:44:46,043 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-client/src/main/resources
+2016-03-08 15:44:46,044 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:44:46,044 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-client/src/test/resources
+2016-03-08 15:48:57,530 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:48:57,530 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/main/resources
+2016-03-08 15:48:57,531 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:48:57,532 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/test/resources
+2016-03-08 15:50:00,885 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:50:00,885 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/main/resources
+2016-03-08 15:50:00,886 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:50:00,886 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/test/resources
+2016-03-08 15:51:08,292 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:51:08,292 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/main/resources
+2016-03-08 15:51:08,293 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:51:08,293 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/test/resources
+2016-03-08 15:51:37,600 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:51:37,600 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/main/resources
+2016-03-08 15:51:37,601 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:51:37,602 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/test/resources
+2016-03-08 15:55:55,639 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:55:55,639 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/main/resources
+2016-03-08 15:55:55,642 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:55:55,642 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/test/resources
+2016-03-08 15:56:46,307 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:56:46,307 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/main/resources
+2016-03-08 15:56:46,308 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:56:46,308 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/test/resources
+2016-03-08 15:57:07,459 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:57:07,460 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/main/resources
+2016-03-08 15:57:07,462 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:57:07,462 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/test/resources
+2016-03-08 15:57:50,109 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:57:50,109 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/main/resources
+2016-03-08 15:57:50,110 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 15:57:50,110 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/test/resources
+2016-03-08 16:00:49,229 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 16:00:49,229 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/main/resources
+2016-03-08 16:00:49,231 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 16:00:49,231 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/test/resources
+2016-03-08 16:01:00,553 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 16:01:00,553 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/main/resources
+2016-03-08 16:01:00,554 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 16:01:00,554 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/test/resources
+2016-03-08 16:02:11,776 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 16:02:11,776 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/main/resources
+2016-03-08 16:02:11,781 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 16:02:11,781 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/test/resources
+2016-03-08 16:06:56,734 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 16:06:56,735 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/main/resources
+2016-03-08 16:06:56,736 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 16:06:56,736 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/test/resources
+2016-03-08 16:11:59,160 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 16:11:59,160 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/main/resources
+2016-03-08 16:11:59,163 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 16:11:59,163 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/test/resources
+2016-03-08 16:13:20,049 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 16:13:20,049 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/main/resources
+2016-03-08 16:13:20,050 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 16:13:20,050 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/test/resources
+2016-03-08 16:24:39,320 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ttt-rmi:ttt-rmi-client:1.0-SNAPSHOT @ /home/hugo/Área de Trabalho/SDis/ttt-rmi-client/pom.xml.
+2016-03-08 16:24:40,088 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ttt-rmi:ttt-rmi-server:1.0-SNAPSHOT @ /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/pom.xml.
+2016-03-08 16:24:42,778 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 16:24:42,779 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/main/resources
+2016-03-08 16:24:42,781 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 16:24:42,781 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/test/resources
+2016-03-08 16:24:44,113 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 16:24:44,113 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-client/src/main/resources
+2016-03-08 16:24:44,115 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 16:24:44,115 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-client/src/test/resources
+2016-03-08 16:27:14,280 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ttt-rmi:ttt-rmi-server:1.0-SNAPSHOT @ /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/pom.xml.
+2016-03-08 16:27:14,304 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 16:27:14,304 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/main/resources
+2016-03-08 16:27:14,306 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 16:27:14,306 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-server/src/test/resources
+2016-03-09 00:03:04,465 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-09 00:03:04,465 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-client/src/main/resources
+2016-03-09 00:03:04,467 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-09 00:03:04,467 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Área de Trabalho/SDis/ttt-rmi-client/src/test/resources

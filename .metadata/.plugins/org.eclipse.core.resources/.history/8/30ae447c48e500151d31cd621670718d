@@ -1,0 +1,14 @@
+package ttt;
+
+public class TTTServer {
+	
+	public static void main(String args[]){
+		try{
+        TTTService ttt = new TTT ();
+            
+        }catch(Exception e) {
+            
+        }
+    }
+
+}

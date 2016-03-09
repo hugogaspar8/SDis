@@ -1,0 +1,7 @@
+package ttt;
+
+import java.rmi.Remote;
+
+public interface TTTService extends Remote {
+
+}

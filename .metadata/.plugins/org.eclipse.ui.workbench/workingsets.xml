@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1457451870771_0" label="ttt-rmi-client" name="ttt-rmi-client">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ttt-rmi-client" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1457451884882_1" label="ttt-rmi-server" name="ttt-rmi-server">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ttt-rmi-server" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1457454284757_2" label="Window Working Set" name="Aggregate for window 1457454284757"/>
+</workingSetManager>

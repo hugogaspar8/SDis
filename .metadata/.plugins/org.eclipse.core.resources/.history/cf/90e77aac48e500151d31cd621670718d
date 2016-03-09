@@ -1,0 +1,21 @@
+package ttt;
+
+import java.rmi.registry.LocateRegistry;
+import java.rmi.registry.Registry;
+
+public class TTTServer {
+	
+	public static void main(String args[]){
+		int registryPort = 20;
+		try{
+		
+        TTTService ttt = new TTT();
+        Registry reg = LocateRegistry.createRegistry(registryPort);
+		reg.rebind("ttt", ttt);
+            
+        }catch(Exception e) {
+            
+        }
+    }
+
+}
