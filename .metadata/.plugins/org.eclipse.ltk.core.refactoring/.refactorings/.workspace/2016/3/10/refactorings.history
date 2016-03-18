@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;ttt-rmi-client&apos;" deleteContents="false" description="Delete resource &apos;ttt-rmi-client&apos;" element1="/ttt-rmi-client" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1457697675707"/>&#x0A;<refactoring comment="Delete resource &apos;ttt-rmi-server&apos;" deleteContents="false" description="Delete resource &apos;ttt-rmi-server&apos;" element1="/ttt-rmi-server" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1457697678388"/>
+</session>

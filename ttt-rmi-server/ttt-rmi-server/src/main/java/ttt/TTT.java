@@ -2,6 +2,7 @@ package ttt;
 
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
+import java.util.Random;
 
 public class TTT extends UnicastRemoteObject implements TTTService{
 	
@@ -90,5 +91,16 @@ public class TTT extends UnicastRemoteObject implements TTTService{
     	  	else
     	  		return -1; /* Game is not over yet */
 	}
+    
+    public int playRandom() throws RemoteException{
+    	
+    	Random gerador = new Random();
+    	int Low=1;
+    	int High=10;
+        int numero = gerador.nextInt(High-Low)+Low;
+    	
+    	
+    	return numero;
+    }
 
 }

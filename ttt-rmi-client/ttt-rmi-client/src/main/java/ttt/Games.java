@@ -23,7 +23,7 @@ public class Games implements Remote{
 							+ "where you want to place your %c (or 0 to refresh the board): \n",
 							player, (player == 1) ? 'X' : 'O');
 			play = keyboardSc.nextInt();
-		} while (play > 9 || play < 0);
+		} while (play > 10 || play < 0);
 		return play;
 	}
 
@@ -36,10 +36,16 @@ public class Games implements Remote{
 			do {
 				System.out.println(ttt.currentBoard());
 				play = readPlay();
-				if (play != 0) {
+				if (play != 0 && play!= 10) {
 					playAccepted = ttt.play( --play / 3, play % 3, player);
 					if (!playAccepted)
 						System.out.println("Invalid play! Try again.");
+				} else if(play==10){
+					do{
+						play=ttt.playRandom();
+						System.out.println(play);
+						playAccepted = ttt.play( --play / 3, play % 3, player);
+					} while (!playAccepted);
 				} else
 					playAccepted = false;
 			} while (!playAccepted);

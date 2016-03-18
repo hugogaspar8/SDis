@@ -33,15 +33,17 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/hugo/Área de Trabalho/Lab3"/>
+			<item value="/home/hugo/Área de Trabalho/SDis/ttt-rmi-server"/>
 			<item value="/home/hugo/Área de Trabalho/SDis/ttt-rmi-client"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="[name]"/>
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
 			<item value="[artifactId]-[version]"/>
 			<item value="[groupId].[artifactId]"/>
 			<item value="[groupId].[artifactId]-[version]"/>
-			<item value="[name]"/>
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
