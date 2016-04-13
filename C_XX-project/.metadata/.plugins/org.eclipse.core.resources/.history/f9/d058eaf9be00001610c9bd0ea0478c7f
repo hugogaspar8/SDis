@@ -1,0 +1,21 @@
+package pt.upa.transporter.ws;
+
+import java.util.TimerTask;
+
+public class MyTimerTask extends TimerTask {
+
+	public MyTimerTask(JobView job) {
+		
+	}
+
+	@Override
+	public void run() {
+		TimerTask task = job.setJobState(JobStateView.HEADING);
+		
+		task = job.setJobState(JobStateView.ONGOING);
+		
+		task = job.setJobState(JobStateView.COMPLETED);
+
+	}
+
+}

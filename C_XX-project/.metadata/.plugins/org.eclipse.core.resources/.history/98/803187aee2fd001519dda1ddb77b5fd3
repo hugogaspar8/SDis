@@ -1,0 +1,81 @@
+package pt.upa.transporter.ws;
+
+import java.util.List;
+import java.util.*;
+
+import javax.jws.WebService;
+
+@WebService(
+		endpointInterface="pt.upa.transporter.ws.TransporterPortType",
+		wsdlLocation="transporter.1_0.wsdl",
+		name="Transporter",
+		portName="TransporterPort",
+		targetNamespace="http://ws.transporter.upa.pt/",
+		serviceName="TransporterService"
+	)
+
+
+
+
+public class TransporterPort implements TransporterPortType{
+	
+	private String[] RegiaoNorte = { "Porto", "Braga", "Viana do Castelo", "Vila Real" , "Bragança" };
+	private String[] RegiaoCentro = {"Lisboa", "Leiria", "Santarém","Castelo Branco", "Coimbra", "Aveiro", "Viseu", "Guarda" };
+	private String[] RegiaoSul = { "Setúbal","Évora", "Portalegre", "Beja", "Faro" };
+	
+	
+	@Override
+	public String ping(String name) {
+		// TODO Auto-generated method stub
+		System.out.println(" ping...");
+		return " ping...ola\n" + name + "!";
+	}
+
+	@Override
+	public JobView requestJob(String origin, String destination, int price)
+			throws BadLocationFault_Exception, BadPriceFault_Exception {
+		if(price < 0){
+			BadPriceFault faultInfo = new BadPriceFault();
+			faultInfo.setPrice(price);
+			throw new BadPriceFault_Exception("error in server", faultInfo);
+		}
+		if(origin.equals(RegiaoNorte)){
+			System.out.printf("hello");
+		}
+		/*for(int i=0; i < RegiaoNorte.length; i++){
+			if(origin != RegiaoNorte.get)
+			
+		}*/
+		
+		System.out.println("ola");
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public JobView decideJob(String id, boolean accept) throws BadJobFault_Exception {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public JobView jobStatus(String id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<JobView> listJobs() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void clearJobs() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	// TODO
+
+}

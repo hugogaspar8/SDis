@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1460114470283_0" label="" name="">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/broker-ws-cli" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/transporter-ws-cli" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/broker-ws" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/transporter-ws" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1460129098350_1" label="Window Working Set" name="Aggregate for window 1460129098350"/>
+</workingSetManager>
