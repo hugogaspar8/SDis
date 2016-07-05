@@ -33,6 +33,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/hugo/Documentos/Lab3"/>
 			<item value="/home/hugo/Área de Trabalho/Lab3"/>
 			<item value="/home/hugo/Área de Trabalho/SDis/ttt-rmi-server"/>
 			<item value="/home/hugo/Área de Trabalho/SDis/ttt-rmi-client"/>

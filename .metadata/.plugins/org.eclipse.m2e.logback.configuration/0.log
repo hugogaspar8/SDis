@@ -554,3 +554,79 @@
 2016-03-18 12:43:09,750 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/main/resources
 2016-03-18 12:43:09,751 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-03-18 12:43:09,751 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/test/resources
+2016-03-18 12:50:36,609 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 12:50:36,609 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/main/resources
+2016-03-18 12:50:36,610 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 12:50:36,610 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/test/resources
+2016-03-18 12:53:24,995 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 12:53:24,996 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/main/resources
+2016-03-18 12:53:24,998 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 12:53:24,998 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/test/resources
+2016-03-18 12:58:39,300 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 12:58:39,300 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/main/resources
+2016-03-18 12:58:39,303 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 12:58:39,303 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/test/resources
+2016-03-18 13:02:41,897 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:02:41,897 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/main/resources
+2016-03-18 13:02:41,898 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:02:41,898 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/test/resources
+2016-03-18 13:07:01,158 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:07:01,158 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/main/resources
+2016-03-18 13:07:01,159 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:07:01,159 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/test/resources
+2016-03-18 13:07:35,596 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:07:35,596 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/main/resources
+2016-03-18 13:07:35,597 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:07:35,597 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/test/resources
+2016-03-18 13:08:51,053 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:08:51,054 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws-cli_juddi/src/main/resources
+2016-03-18 13:08:51,055 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:08:51,055 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws-cli_juddi/src/test/resources
+2016-03-18 13:09:44,156 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:09:44,156 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws-cli_juddi/src/main/resources
+2016-03-18 13:09:44,156 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:09:44,156 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws-cli_juddi/src/test/resources
+2016-03-18 13:17:13,045 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:17:13,045 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/main/resources
+2016-03-18 13:17:13,046 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:17:13,047 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/test/resources
+2016-03-18 13:18:52,332 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:18:52,332 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws-cli_juddi/src/main/resources
+2016-03-18 13:18:52,333 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:18:52,333 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws-cli_juddi/src/test/resources
+2016-03-18 13:19:52,963 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:19:52,963 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/main/resources
+2016-03-18 13:19:52,964 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:19:52,965 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/test/resources
+2016-03-18 13:20:50,890 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:20:50,890 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/main/resources
+2016-03-18 13:20:50,891 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:20:50,892 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/test/resources
+2016-03-18 13:26:29,085 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:26:29,085 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/main/resources
+2016-03-18 13:26:29,086 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:26:29,086 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws_juddi/src/test/resources
+2016-03-18 13:29:26,934 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:29:26,934 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws-cli_juddi/src/main/resources
+2016-03-18 13:29:26,935 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:29:26,935 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws-cli_juddi/src/test/resources
+2016-03-18 13:33:53,018 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:33:53,018 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws-cli_juddi/src/main/resources
+2016-03-18 13:33:53,019 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:33:53,019 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws-cli_juddi/src/test/resources
+2016-03-18 13:34:22,438 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:34:22,438 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws-cli_juddi/src/main/resources
+2016-03-18 13:34:22,439 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:34:22,439 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws-cli_juddi/src/test/resources
+2016-03-18 13:34:34,631 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:34:34,632 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws-cli_juddi/src/main/resources
+2016-03-18 13:34:34,632 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:34:34,632 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws-cli_juddi/src/test/resources
+2016-03-18 13:34:57,301 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:34:57,301 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws-cli_juddi/src/main/resources
+2016-03-18 13:34:57,302 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:34:57,302 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws-cli_juddi/src/test/resources
+2016-03-18 13:35:57,981 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:35:57,981 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws-cli_juddi/src/main/resources
+2016-03-18 13:35:57,982 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-18 13:35:57,982 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/hugo/Documentos/Lab3/ttt-ws-cli_juddi/src/test/resources
